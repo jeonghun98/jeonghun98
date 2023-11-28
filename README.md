@@ -45,7 +45,8 @@ Hi there 👋
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hun7979)](https://solved.ac/hun7979)
 
-![JeongHun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonghun98&theme=great-gatsby&show_icons=true)
+<!--
+![JeongHun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonghun98&theme=great-gatsby&show_icons=true) -->
 
 <!--
 **jeonghun98/jeonghun98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
