@@ -1,10 +1,21 @@
-### :pushpin:Nice way to meet me
-Hi there 👋
+# :pushpin:Nice way to meet me
 
-<a href="mailto:wjdgns7040@gmail.com"><img src="https://img.shields.io/badge/wjdgns7040@gmail.com-EA4335?style=flat-square&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;">
-</a>
+안녕하세요?
+사용자 관점에서 서버를 최적화하는 백엔드 개발자입니다.
 
-### 💪 Skills
+1) **Spring Boot**를 사용한 웹 개발 경험 다수 보유
+
+2) 응답성을 고려한 쿼리문 작성 경험 (**MyBatis, JPA, QueryDsl**)
+
+3) 개발자의 코드를 **빠르게 이해**하고 **커스터마이징 및 구현**하는 능력
+
+4) **MSA** 개발 경험
+
+5) **JIRA, GitLab** 협업 툴 사용 경험
+
+<br>
+
+# 💪 Skills
 **platforms & Languages**
 <p align = "left">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp
@@ -41,7 +52,9 @@ Hi there 👋
 </br>
 </br>
 
-### **:scroll:Projects**
+<br>
+
+# **:scroll:Projects**
 
 **[1. 플로닛(PloNit)](https://github.com/jeonghun98/PloNit)**
 
@@ -86,8 +99,9 @@ Hi there 👋
 
 담당업무(Android) : 퀴즈 및 스탬프 실시간 업데이트, 엠블런 활성화 구현, AR Core 활용하여 이미지 인식 후 3D obj 활성화 <br><br>
 
+<br>
 
-### **:dart:Baekjoon Online Judge 알고리즘 트레이닝 등급**
+# **:dart:Baekjoon Online Judge 알고리즘 트레이닝 등급**
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hun7979)](https://solved.ac/hun7979)
