@@ -101,7 +101,7 @@
 
 <br>
 
-# **:dart:Baekjoon Online Judge 알고리즘 트레이닝 등급**
+# **:dart:Baekjoon Online Judge Algorithm Rating**
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hun7979)](https://solved.ac/hun7979)
