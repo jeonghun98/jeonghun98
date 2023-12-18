@@ -41,6 +41,53 @@ Hi there 👋
 </br>
 </br>
 
+### **:scroll:Projects**
+
+**[1. 플로닛(PloNit)](https://github.com/jeonghun98/PloNit)**
+
+설명 : 조깅을 하며 쓰레기를 줍는 플로깅 기록 플랫폼
+
+개발 기간: 2023.10.09 ~ 2023.11.17
+
+담당업무(Back-end) : kakao 로그인 구현, FCM 알림 구현, QueryDSL 쿼리문 리팩토링 <br><br>
+
+
+**[2. 한푼두푼(HPDP)](https://github.com/jeonghun98/HPDP)**
+
+설명 : 잔돈을 활용한 소셜벤처 크라우드 펀딩 플랫폼
+
+개발 기간: 2023.08.21 ~ 2023.10.06
+
+담당업무(Back-end) : 로그인 구현, Redis 활용한 '즐겨찾기' 기능 구현, SSE 사용한 알림 기능 구현 <br><br>
+
+**[3. 플랜티(Planty)](https://github.com/jeonghun98/Planty)**
+
+설명 : 홈가드닝 컨설팅 서비스 플랫폼
+
+개발 기간: 2023.07.04 ~ 2023.08.18
+
+담당업무(Back-end) : 정기구독 api 구현 및 Embedded 구현, DB 설계 및 쿼리 작성, 예외 처리 설계 <br><br>
+
+**[4. South_Korea_Tour](https://github.com/jeonghun98/South_Korea_Tour)**
+
+설명 : 관광 소개와 여행 계획 서비스
+
+개발 기간: 2023.04.14 ~2023.05.26
+
+담당업무(Back-end) : 지역 관광 소개 및 여행 계획(공유) api 구현, DB 설계
+
+담당업무(Front-end) : vuex store 모듈화 및 관리, 관광 정보 및 여행 계획 화면 구현 <br><br>
+
+**[5. INU WITH U](https://github.com/jeonghun98/INU-WITH-U)**
+
+설명 : 학교 탐방 AR 게임 앱
+
+개발 기간: 2022.01.10 ~ 2022.05.09
+
+담당업무(Android) : 퀴즈 및 스탬프 실시간 업데이트, 엠블런 활성화 구현, AR Core 활용하여 이미지 인식 후 3D obj 활성화 <br><br>
+
+
+### **:dart:Baekjoon Online Judge 알고리즘 트레이닝 등급**
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hun7979)](https://solved.ac/hun7979)
