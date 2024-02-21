@@ -56,7 +56,7 @@
 
 # **:scroll:Projects**
 
-**[1. 플로닛(PloNit)](https://github.com/jeonghun98/PloNit)**
+**[1. 플로닛(PloNit)](https://github.com/jeonghun98/PloNit)** (수상)
 
 설명 : 조깅을 하며 쓰레기를 줍는 플로깅 기록 플랫폼
 
@@ -65,7 +65,7 @@
 담당업무(Back-end) : kakao 로그인 구현, FCM 알림 구현, QueryDSL 쿼리문 리팩토링 <br><br>
 
 
-**[2. 한푼두푼(HPDP)](https://github.com/jeonghun98/HPDP)**
+**[2. 한푼두푼(HPDP)](https://github.com/jeonghun98/HPDP)** (수상)
 
 설명 : 잔돈을 활용한 소셜벤처 크라우드 펀딩 플랫폼
 
@@ -91,7 +91,7 @@
 
 담당업무(Front-end) : vuex store 모듈화 및 관리, 관광 정보 및 여행 계획 화면 구현 <br><br>
 
-**[5. INU WITH U](https://github.com/jeonghun98/INU-WITH-U)**
+**[5. INU WITH U](https://github.com/jeonghun98/INU-WITH-U)** (수상)
 
 설명 : 학교 탐방 AR 게임 앱
 
