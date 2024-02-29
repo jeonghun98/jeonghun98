@@ -11,7 +11,7 @@
 
 4) **MSA** 개발 경험
 
-5) **JIRA, GitLab** 협업 툴 사용 경험
+5) **JIRA, Slack, GitLab** 협업 툴 사용 경험
 
 <br>
 
