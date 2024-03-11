@@ -62,7 +62,7 @@
 
 개발 기간 : 2023.10.09 ~ 2023.11.17
 
-담당업무(Back-end) : kakao 로그인 구현, FCM 알림 구현, QueryDSL 쿼리문 리팩토링 <br><br>
+담당업무(Back-end) : kakao 로그인 구현, FCM 알림 구현, QueryDSL 쿼리문 리팩토링, 회원 및 크루 관련 API 구현 <br><br>
 
 
 **[2. 한푼두푼(HPDP)](https://github.com/jeonghun98/HPDP)** (수상)
@@ -71,7 +71,7 @@
 
 개발 기간 : 2023.08.21 ~ 2023.10.06
 
-담당업무(Back-end) : 로그인 구현, Redis 활용한 '즐겨찾기' 기능 구현, SSE 사용한 알림 기능 구현 <br><br>
+담당업무(Back-end) : 로그인 구현, Redis 활용한 '즐겨찾기' 기능 구현, SSE 사용한 알림 기능 구현, 개인 및 기업 관련 API 구현 <br><br>
 
 **[3. 플랜티(Planty)](https://github.com/jeonghun98/Planty)**
 
@@ -79,7 +79,7 @@
 
 개발 기간 : 2023.07.04 ~ 2023.08.18
 
-담당업무(Back-end) : 정기구독 api 구현 및 Embedded 구현, DB 설계 및 쿼리 작성, 예외 처리 설계 <br><br>
+담당업무(Back-end) : 정기 구독 컨설팅 관련 API 구현, DB 설계 및 쿼리 작성, 예외 처리 설계, Arduino (NodeMCU 1.0)를 통한 온습도 데이터 API 연동 <br><br>
 
 **[4. South_Korea_Tour](https://github.com/jeonghun98/South_Korea_Tour)**
 
